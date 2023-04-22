@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lzkznGuToie+ZOZENPFL/LKmof6SH2oUWMmtxRQ8v+w=",
+  "Source": "AzureCICDPractice",
+  "BasePath": "_content/AzureCICDPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
